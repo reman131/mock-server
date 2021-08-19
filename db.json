@@ -1,6 +1,6 @@
 {
-  "statusCode": 1;
-  "success": true;
+  "statusCode": 1,
+  "success": "true",
   "result": {
     "items": {
  "id": 99261976,
